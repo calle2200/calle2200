@@ -18,7 +18,7 @@ Under utveckling. Tidigt stadie.
 ### ✊ Sten sax påse
 REST-API i Java där två spelare möts via ett unikt spel-id. Enhetstester i JUnit
 som körs automatiskt vid varje push.
-`Java` `Maven` `JUnit` `Docker` `GitHub Actions`
+`Java` `Maven` `JUnit` `GitHub Actions`
 → [Kod](https://github.com/calle2200/rockpaperscissorsapi)
 
 
