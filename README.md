@@ -33,4 +33,4 @@ och grafik.
 **Frontend** HTML · CSS · JavaScript · TypeScript · React · Next.js
 **Backend** Java · Node.js · C# · REST-API:er · PostgreSQL
 **Verktyg** Git · GitHub Actions · Vercel
-**Övrigt** Unity · Godot · Scrum
+**Övrigt** Unity · Godot 
