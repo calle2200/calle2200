@@ -13,7 +13,7 @@ kupongflöde och automatisk rättning. Växte ur ett Excel-ark där jag tog fram
 regel- och poängsystemet själv.
 Under utveckling. Tidigt stadie.
 `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL`
-→ [Kod](https://github.com/calle2200/fotbollstipset) · [Live](https://fotbollstipset-rose.vercel.app/)
+→ [Live](https://fotbollstipset-rose.vercel.app/)
 
 ### ✊ Sten sax påse
 REST-API i Java där två spelare möts via ett unikt spel-id. Enhetstester i JUnit
