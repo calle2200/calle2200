@@ -7,24 +7,22 @@ på kvällarna.
 
 ## Projekt
 
+### 🎮 Studios
+Egen hobby spelstudio. Spel i C# och Unity samt GDScript och Godot — kod, speldesign
+och grafik.
+
 ### 🏆 Tipsplattformen
 Poolspel där deltagarna tippar på omgångens matcher, med inloggning, ligor,
 kupongflöde och automatisk rättning. Växte ur ett Excel-ark där jag tog fram
 regel- och poängsystemet själv.
 Under utveckling. Tidigt stadie.
 `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL`
-→ [Live](https://fotbollstipset-rose.vercel.app/)
 
 ### ✊ Sten sax påse
 REST-API i Java där två spelare möts via ett unikt spel-id. Enhetstester i JUnit
 som körs automatiskt vid varje push.
 `Java` `Maven` `JUnit` `GitHub Actions`
 → [Kod](https://github.com/calle2200/rockpaperscissorsapi)
-
-
-### 🎮 Studios
-Egen hobby spelstudio. Spel i C# och Unity samt GDScript och Godot — kod, speldesign
-och grafik.
 
 ---
 
